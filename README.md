@@ -18,7 +18,7 @@ The function outputs:
 If `plot == TRUE` is defined then a plot of the configurations will be produced.
 
 
-`configuration_replacement_funcion.R`
+`configuration_replacement_function.R`
 
 Takes the configurations created in configuration_function.R as a list and merges configurations based on a percentage of the number within each component / total number. 
 i.e if the % in configuration i is a user-defined % then configuration i would be combined with the configuration where all the components are present. The zero values are then replaced using a method defined by the user (simple, additive, multiplicative, EM).
