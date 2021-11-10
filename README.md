@@ -1,6 +1,8 @@
 # Configurations
 R Functions to deal with data by splitting up into configurations based on presence and absence of components. 
 
+Uses `zCompositions` package (J Palarea-Albaladejo and JA Martin-Fernandez, [2015]) (http://dx.doi.org/10.1016/j.chemolab.2015.02.019)
+
 
 `configuration_function.R`
 
