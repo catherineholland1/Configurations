@@ -4,6 +4,9 @@ R Functions to deal with data by splitting up into configurations based on prese
 Uses `zCompositions` package (J Palarea-Albaladejo and JA Martin-Fernandez, [2015]) (http://dx.doi.org/10.1016/j.chemolab.2015.02.019)
 
 
+Full example run of both functions within 'configuration_example.R'
+
+
 `configuration_function.R`
 
 Takes a dataset and spilts it up into configurations based on the prescence and absence of the components. 
